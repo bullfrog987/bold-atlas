@@ -2,115 +2,80 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
+  display: Jeremy Stoltz
+  given: Jeremy
+  family: Stoltz
   pronouns: he/him
 postnominals:
-  - PhD
-  - MIEEE
+  - CompTIA Security+ ce
 status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+  icon: "🛡️"
+role: Senior IT Infrastructure Specialist | USAF Veteran
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Senior IT Specialist and Air Force Veteran with over 12 years of experience managing mission-critical defense networks. 
+  Specialized in secure data transport, infrastructure integrity, and systems administration within high-security (TS/SCI) environments. 
+  Passionate about building resilient IT systems and currently pursuing a B.S. in Computer Science.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: United States Air Force (Veteran)
+  - name: Raytheon (Alumni)
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:admin@jeremystoltz.net
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
-  - icon: brands/github
-    url: https://github.com/example
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://www.linkedin.com/in/Jeremy-Stoltz
+  - icon: brands/github
+    url: https://github.com/bullfrog987
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Cyber Security & Defense
+  - Network Infrastructure
+  - Systems Administration
+  - Home Lab & Self-Hosting
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+  - degree: B.S. Computer Science (Candidate)
+    institution: Oregon State University
+    summary: Currently pursuing advanced studies in Computer Science.
+  - degree: Information Technology Fundamentals
+    institution: Community College of the Air Force
+    summary: Specialized training in Cyber Transport Systems and Network Defense.
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Senior IT Specialist
+    org: Raytheon
+    start: 2018-07-01
+    end: 2019-05-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Managed front-end communications and 19k+ global network circuits. 
+      Expertise in Cisco/Juniper routers, switches, and cryptographic equipment (KG-175G).
+  - role: Computer Network Defense Sensor Technician
+    org: United States Air Force
+    start: 2016-12-01
+    end: 2018-08-01
+    summary: Provided voice, video, and data transport across 32 intelligence networks.
+  - role: Cyber Transport Systems (3D1X2)
+    org: United States Air Force
+    start: 2011-10-01
+    end: 2016-12-01
+    summary: Administered Cisco ASA Firewalls and Linux/Unix server environments for mission-critical operations.
 
 skills:
   - name: Technical Skills
     items:
-      - label: Python
+      - label: Network Infrastructure (Cisco/Juniper)
         level: 5
-      - label: Machine Learning
+      - label: Cyber Security (Security+)
         level: 5
-      - label: Cloud Computing
+      - label: Systems Admin (Linux/Windows)
         level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
+      - label: Cryptographic Equipment (COMSEC)
         level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
-
-languages:
-  - name: English
-    level: 5
-    label: Native
-  - name: Spanish
-    level: 4
-    label: Fluent
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+  - title: Top Secret / SCI with CI Poly
+    awarder: Department of Defense
+    summary: Active security clearance held since 2011.
+    icon: hero/shield-check
