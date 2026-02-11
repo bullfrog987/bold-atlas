@@ -1,3 +1,4 @@
+baseURL: "https://bullfrog987.github.io/bold-atlas/"
 build:
   hugo_version: '0.154.5'
 deploy:
