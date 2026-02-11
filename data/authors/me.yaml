@@ -5,29 +5,31 @@ name:
   display: Jeremy Stoltz
   given: Jeremy
   family: Stoltz
+  alternate: ''
+  pronunciation: ''
   pronouns: he/him
 postnominals:
-  - CompTIA Security+ ce
+  - Security+ ce
 status:
   icon: "🛡️"
-role: Senior IT Infrastructure Specialist | USAF Veteran
+role: Senior IT Infrastructure Specialist
 bio: |
-  Senior IT Specialist and Air Force Veteran with over 12 years of experience managing mission-critical defense networks. 
-  Specialized in secure data transport, infrastructure integrity, and systems administration within high-security (TS/SCI) environments. 
-  Passionate about building resilient IT systems and currently pursuing a B.S. in Computer Science.
+  Jeremy Stoltz is a Senior IT Specialist and Air Force Veteran with over 12 years of experience managing mission-critical defense networks. 
+  He specializes in secure data transport, infrastructure integrity, and systems administration within high-security (TS/SCI) environments. 
+  Jeremy is passionate about building resilient IT systems while pursuing his B.S. in Computer Science.
 
 affiliations:
-  - name: United States Air Force (Veteran)
-  - name: Raytheon (Alumni)
+  - name: United States Air Force
+    url: https://www.af.mil/
 
 links:
   - icon: at-symbol
     url: mailto:admin@jeremystoltz.net
     label: E-mail Me
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/Jeremy-Stoltz
   - icon: brands/github
     url: https://github.com/bullfrog987
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/Jeremy-Stoltz
 
 interests:
   - Cyber Security & Defense
@@ -36,12 +38,20 @@ interests:
   - Home Lab & Self-Hosting
 
 education:
-  - degree: B.S. Computer Science (Candidate)
+  - degree: BS Computer Science
     institution: Oregon State University
-    summary: Currently pursuing advanced studies in Computer Science.
-  - degree: Information Technology Fundamentals
+    start: 2025-01-01
+    end: 2028-12-31
+    summary: |
+      Currently pursuing a Bachelor of Science in Computer Science with a focus on network security and systems architecture.
+    button:
+      text: View Program
+      url: https://oregonstate.edu/
+      icon: hero/academic-cap
+  - degree: Cyber Transport Systems
     institution: Community College of the Air Force
-    summary: Specialized training in Cyber Transport Systems and Network Defense.
+    start: 2011-10-01
+    end: 2018-08-01
 
 experience:
   - role: Senior IT Specialist
@@ -51,31 +61,43 @@ experience:
     summary: |
       Managed front-end communications and 19k+ global network circuits. 
       Expertise in Cisco/Juniper routers, switches, and cryptographic equipment (KG-175G).
+    button:
+      text: View Portfolio
+      url: /
+      icon: hero/arrow-down-tray
   - role: Computer Network Defense Sensor Technician
     org: United States Air Force
     start: 2016-12-01
     end: 2018-08-01
-    summary: Provided voice, video, and data transport across 32 intelligence networks.
-  - role: Cyber Transport Systems (3D1X2)
-    org: United States Air Force
-    start: 2011-10-01
-    end: 2016-12-01
-    summary: Administered Cisco ASA Firewalls and Linux/Unix server environments for mission-critical operations.
+    summary: |
+      Provided voice, video, and data transport across 32 intelligence networks. Managed secure communications for high-priority defense missions.
 
 skills:
   - name: Technical Skills
     items:
-      - label: Network Infrastructure (Cisco/Juniper)
+      - label: Network Infrastructure
         level: 5
-      - label: Cyber Security (Security+)
+      - label: Cyber Security
         level: 5
-      - label: Systems Admin (Linux/Windows)
+      - label: Systems Admin
         level: 4
-      - label: Cryptographic Equipment (COMSEC)
+  - name: Specialized Equipment
+    items:
+      - label: Cryptographic Gear (COMSEC)
         level: 5
+      - label: Cisco / Juniper
+        level: 5
+      - label: Linux / Windows Server
+        level: 4
+
+languages:
+  - name: English
+    level: 5
+    label: Native
 
 awards:
-  - title: Top Secret / SCI with CI Poly
+  - title: Top Secret / SCI Clearance
     awarder: Department of Defense
-    summary: Active security clearance held since 2011.
+    date: "2011-10-01"
+    summary: Maintained active TS/SCI clearance with CI Polygraph for mission-critical operations.
     icon: hero/shield-check
